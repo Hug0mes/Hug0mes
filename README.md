@@ -14,7 +14,7 @@
   <img align="center" alt="Hugo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hugo-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Hugo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="right" alt="Hugo-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/proxy/iFFonGT4YkVkIx9k5BrHOBQ6uM1QGNfRSlLS5YS_E8aOK2G-EWN6LuaLLeufDgGOyTWSAdIuIj5wxKibpL9W-crgnxYOWe0">
+  <img align="right" alt="Hugo-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/1Vv.gif">
 </div>
   
  ##
