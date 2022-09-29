@@ -14,7 +14,7 @@
   <img align="center" alt="Hugo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hugo-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Hugo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="right" alt="Hugo-pic" height="125" src="https://www.pngitem.com/pimgs/m/497-4979354_computer-guy-meme-hd-png-download.png" style="border-radius:50px;">
+  <img align="right" alt="Hugo-pic" height="125" src="https://www.pngall.com/wp-content/uploads/2016/04/Kiwi-Free-Download-PNG.png" style="border-radius:50px;">
   
 </div>
   
